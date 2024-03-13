@@ -1,3 +1,3 @@
 Basicaly github is a gui version for GIT. It similarly helps in file manipulation and track changes
 Github works on snapshots basis where every change is stored in form of snapshot that can help in easy roll back
-
+ The fundamental unit of storage in GitHub is a repository (or repo). It contains all the files and revision history of a project. Repositories can be public, accessible to anyone, or private, accessible only to specified collaborators.
